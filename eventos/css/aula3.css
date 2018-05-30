@@ -1,0 +1,21 @@
+body{
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+
+
+}
+.exemplo{
+	width:465px; 
+	padding:20px;  
+	background:#069;
+	color:#FFF;
+	text-align:center;
+}
+
+label{
+	display:block;
+	margin:10px 0;
+	padding:10px;
+	background:#ccc;
+}	
+
+ 
